@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Abdallah Abdalbasset\Desktop\8-PARALLEL PROJECT may\parallel project\Source.c(219,70): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Abdallah Abdalbasset\Desktop\8-PARALLEL PROJECT may\parallel project\Source.c(219,90): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Abdallah Abdalbasset\Desktop\8-PARALLEL PROJECT may\parallel project\Source.c(208,6): warning C4101: 'i': unreferenced local variable
+  LINK : C:\Users\Abdallah Abdalbasset\Desktop\8-PARALLEL PROJECT may\x64\Debug\parallel project.exe not found or not built by the last incremental link; performing full link
+  parallel project.vcxproj -> C:\Users\Abdallah Abdalbasset\Desktop\8-PARALLEL PROJECT may\x64\Debug\parallel project.exe
